@@ -1,0 +1,36 @@
+shrikar@quanscendence.com
+https://www.theme-junkie.com/what-is-figma/#:~:text=Figma%20is%20a%20web-based%20graphics%20editing%20and%20user,Figma%20is%20different%20from%20other%20graphics%20editing%20tools.
+ionic:https://www.tutorialspoint.com/ionic/ionic_icons.htm
+Project_Link:
+Linkedin:https://www.linkedin.com/in/renuka-maradagi-a06934212
+//
+1)write a logic in JS to know if the year of today date is leap year or not
+answer:function leapYear(year){
+    var result; 
+    year = parseInt(document.getElementById("isYear").value);
+    if (years/400){
+      result = true
+    }
+    else if(years/100){
+      result = false
+    }
+    else if(years/4){
+      result= true
+    }
+    else{
+      result= false
+    }
+      return result
+ }
+2)duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
+duplicate([1, 2, 3]); // [1,2,3,1,2,3]
+
+3)var str = "a-b-c-d";
+Get "c" using split method
+
+4)console.log(1 +  "2" + "2");
+console.log(1 +  +"2" + "2");
+console.log(1 +  -"1" + "2");
+console.log(+"1" +  "1" + "2");
+console.log( "A" - "B" + "2");
+console.log( "A" - "B" + 2);

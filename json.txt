@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Renuka",
+        "gender": "female",
+        "sem": "seventh",
+        "stream": "cse",
+        "clgName": "RVCE"
+    },
+    {
+        "id": 2,
+        "name": "Renu",
+        "gender": "female",
+        "sem": "eigth",
+        "stream": "ec",
+        "clgName": "ABC"
+    },
+    {
+        "id": 3,
+        "name": "Ravi",
+        "gender": "male",
+        "sem": "eigth",
+        "stream": "civil",
+        "clgName": "MIT"
+    },
+    {
+        "id": 4,
+        "name": "Renu",
+        "gender": "female",
+        "sem": "eigth",
+        "stream": "ec",
+        "clgName": "xyz"
+    }
+]

@@ -1,0 +1,37 @@
+CREATE TABLE `javatechie`.`users` (
+  `id` INT NOT NULL,
+  `name` VARCHAR(45) NULL,
+  `dob` DATE NULL,
+  PRIMARY KEY (`id`));
+
+
+CREATE TABLE `students`.`student` (
+
+  `id` INT NOT NULL,
+  `name` VARCHAR(45) NULL,
+  `Gender` VARCHAR(45) NULL,
+  `sem` VARCHAR(45) NULL,
+`stream` VARCHAR(45) NULL,
+`clgname` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));
+
+
+SELECT id From students.student
+where name="rekha";
+
+SELECT * FROM students.student;
+
+
+
+[
+    {
+        "id":"1",
+        "firstname":"Munonye",
+        "lastname":"kany@gmail.com",
+        "location":{
+            "id":"1",
+            "name":"Budapest,Hungry"
+        },
+        "email":"Othniel"
+    }
+]

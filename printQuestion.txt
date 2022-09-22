@@ -1,0 +1,13 @@
+2X1=2
+2X2=4
+...
+
+
+
+2x10=20
+
+/printTable
+pathvariable = number
+Get Request
+
+private 
